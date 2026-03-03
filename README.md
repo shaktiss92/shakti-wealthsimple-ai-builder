@@ -23,3 +23,10 @@ Critically, every human decision feeds back into the knowledge base. When an ana
 ## What would break first at scale
 
 The knowledge base coverage. As transaction volume grows and new instruments, counterparties, and edge cases appear, the system will encounter novel discrepancy patterns not in its history. Without continuous enrichment from human feedback, confidence scores drift and false escalation rates climb — overwhelming the analysts the system was designed to protect. The first investment at scale is ensuring every human resolution is captured, indexed, and retrievable, so institutional knowledge compounds rather than decays.
+
+## Your salary expectation and years of hands-on experience with AI tools or systems.
+
+Salary: Negotiable
+Hands-on experience with AI tools or systems: 2+ years
+Total experience Data + AI/ML: ~13years
+LinkedIn: www.linkedin.com/in/shaktisinghshekhawat92
