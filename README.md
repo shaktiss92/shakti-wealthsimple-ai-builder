@@ -27,6 +27,9 @@ The knowledge base coverage. As transaction volume grows and new instruments, co
 ## Your salary expectation and years of hands-on experience with AI tools or systems.
 
 Salary: Negotiable
+
 Hands-on experience with AI tools or systems: 2+ years
+
 Total experience Data + AI/ML: ~13years
+
 LinkedIn: www.linkedin.com/in/shaktisinghshekhawat92
